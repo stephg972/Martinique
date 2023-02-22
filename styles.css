@@ -1,0 +1,244 @@
+.container-fluid{
+    
+    background-image: url(./img/bandeau-martinique3.png);
+    width: 100%;
+    height: 140px;
+    background-size: cover;
+    background-repeat: no-repeat;
+     
+     
+    
+}
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav-item{
+    
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+.navbar-collapse{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin: 0 45%;
+    font-size: large;
+    font-weight: bold;
+}
+
+.nav-item a{
+    position: relative;
+    color: chocolate;
+}
+.container0{
+    background-image: url(./img/background\ martinique\ 2.jpg);
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+
+}
+.container0 h1{
+    padding-top: 30px;
+    text-align: center;
+    color: chocolate;
+}
+.text p{
+    color: chartreuse;
+    font-size: large;
+    font-weight: bold;
+    width: 400px;
+    display: flex;
+    flex-flow: column;
+}
+.items img{
+    border-radius: 30px;
+    width: 250px;
+    height: 250px;
+    
+
+}
+.container1{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.visite{
+    
+    
+}
+.visite h3{
+    text-align: center;
+}
+.titre1 span{
+    
+}
+.img-p{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.image1 img{
+    border-radius: 20px;
+    width: 150px;
+    height: 100px;
+}
+.text-visite1 p{
+    width: 250px;
+}
+
+.titre2 span{
+    
+}
+.img-p2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.image2 img{
+    border-radius: 20px;
+    width: 150px;
+}
+.text-visite2 p{
+    
+    width: 250px;
+
+}
+
+.titre3 span{
+    
+    
+}
+.img-p3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.image3 img{
+    border-radius: 20px;
+    width: 150px;
+}
+.text-visite3 p{
+    width: 250px;
+}
+.titre4 span{
+    
+}
+.img-p4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.image4 img{
+    border-radius: 20px;
+    width: 150px;
+}
+.text-visite4 p{
+    width: 250px;
+}
+
+.equipe{
+    background-image: url(./img/distillerie-trois-rivières-citerne.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+.equipe1{
+    text-align: center;
+    
+}
+.personne1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+   
+}
+.personne1 li{
+    font-size: large;
+    font-weight: bold;
+    
+}
+.personne1 img{
+    border-radius: 50%;
+    width: 200px;
+}
+.groupe2{
+    padding-top: 50px;
+    
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    
+    
+}
+.personne2{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 360px;
+    
+}
+.personne2 li{
+    font-size: medium;
+    font-weight: bold;
+    
+}
+.personne2 img{
+    border-radius: 50%;
+    width: 200px;
+}
+.personne3{
+    
+    position: relative;
+    margin-left: 60%;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 360px;
+    
+    
+    
+}
+.personne3 li{
+    
+    font-weight: bold;
+}
+.personne3 img{
+    border-radius: 50%;
+    width: 200px;
+}
+.contact h2{
+    text-align: center;
+
+}
+.nom-mail{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.form-text{
+    margin-left: 35%;
+    
+}
